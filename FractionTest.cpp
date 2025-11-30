@@ -1,6 +1,5 @@
 /*
- * A testing class for CISC/CMPE320 assignment 2.
- * You must satisfy all tests in this file, but may add some of your own.
+ *  must satisfy all tests in this file
  */
 #include <iostream>
 using namespace std;

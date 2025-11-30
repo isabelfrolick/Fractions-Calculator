@@ -1,8 +1,7 @@
 /*
  *Isabel Frolick
- *18ijzf
- *20155540
- * fraction_18ijzf.cpp
+ 
+ * fraction.cpp
  */
 
 
@@ -10,7 +9,7 @@
 
 #include <iostream>
 
-#include "fraction_18ijzf.h"
+#include "fraction.h"
 
 using namespace std;
 

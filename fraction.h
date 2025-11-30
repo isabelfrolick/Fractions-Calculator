@@ -1,15 +1,13 @@
 /*
  *Isabel Frolick
- *18ijzf
- *20155540
  * fraction_18ijzf.h
  */
 
 
 
 
-#ifndef FRACTION_18IJZF_H_
-#define FRACTION_18IJZF_H_
+#ifndef FRACTION_H_
+#define FRACTION_H_
 
 
 #pragma once
